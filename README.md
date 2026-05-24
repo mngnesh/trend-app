@@ -36,4 +36,4 @@ docker push username/trend-app
 Configured Jenkins pipeline for CI/CD automation.
 
 ## Monitoring
-Future scope includes Prometheus + Grafana integration.
+Monitoring system to check the health.
